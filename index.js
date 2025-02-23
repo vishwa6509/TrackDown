@@ -15,7 +15,7 @@ app.use(cors());
 app.set("view engine", "ejs");
 
 //Modify your URL here
-var hostURL="YOUR URL";
+var hostURL="https://replit.com/@americanmamm/TrackDown-1#README.md";
 //TOGGLE for Shorters
 var use1pt=false;
 
